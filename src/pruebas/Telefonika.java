@@ -1,4 +1,4 @@
-package pruebas;
+
 
 public class Telefonika {
 	private String nombreCliente;
