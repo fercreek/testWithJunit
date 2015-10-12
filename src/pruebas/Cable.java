@@ -11,6 +11,7 @@ public class Cable extends Telefonika{
 		return saldoCable;
 	}
 	
+
 	public void setSaldoCable(float saldoCable) {
 		this.saldoCable = saldoCable;
 	}
